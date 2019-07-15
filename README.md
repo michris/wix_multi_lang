@@ -1,4 +1,5 @@
-# wix_multi_lang
+# wix_multi_lang 
+Tags : wix wix.com website builder multilanguage solution
 
 ---
 
@@ -37,8 +38,4 @@ And so on ...
 
 - The code.js example works for 3 languages. English (en), Dutch (nl) and German (de)
 - I think the code is self explanary how to extend for other or more languages
-
-
-
-
 
