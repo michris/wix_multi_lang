@@ -37,7 +37,9 @@ And so on ...
 # Other languages :
 
 - The code.js example works for 3 languages. English (en), Dutch (nl) and German (de)
-- I think the code is self explanary how to extend for other or more languages
+- I think the code is self explanatory how to extend for other or more languages
+
+---
 
 <a href="https://www.buymeacoffee.com/Vc3P0zg9X" target="_blank"><img src="buymeacoffee.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
